@@ -107,3 +107,12 @@ README.md
 - **Accessibility:** Basic-to-moderate  
 - **Security:** Needs minor fixes  
 - **Production Hardening:** Needs medium improvement
+
+---
+
+---
+
+## 🌟 Final Note
+
+My personal portfolio website is built to showcase my projects, skills, and experience.  
+You can view it live here: [My Portfolio](https://md-shadab-ali.github.io/portfolio/)
