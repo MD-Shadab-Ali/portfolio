@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Portfolio Project Report
 
 ## Overview
@@ -119,3 +120,7 @@ Assessment:
 - Accessibility maturity: Basic-to-moderate
 - Security hardening: Needs minor fixes
 - Production hardening: Needs medium improvement
+=======
+# portfolio
+My personal portfolio website showcasing my projects and skills.
+>>>>>>> b6e0f12c4eb0e735773baeb687db1ce1546744ad
